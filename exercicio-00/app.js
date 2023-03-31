@@ -1,4 +1,5 @@
 /*
+** Revisão geral sobre métodos de arrays (map, filter, reduce) e sobre callback, async/await 
 01 - Gere um novo array com os números impares do array abaixo e exiba
 o novo array no console.
 Dica: pesquise por remainder operator (%)
